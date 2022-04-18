@@ -73,6 +73,7 @@ p {
     justify-content: center;
     padding: 20px;
     max-width: 650px;
+    margin:auto;
   }
   section:last-of-type {
     max-width: 650px;
